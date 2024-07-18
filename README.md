@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src=["https://media.licdn.com/dms/image/D4E16AQG6AM7TyvLbpg/profile-displaybackgroundimage-shrink_350_1400/0/1703208305160?e=1722470400&v=beta&t=4Qllor8JtqY8YMzMCzxuq5dF4RvQxIGwshcDhakIWzY](https://media.licdn.com/dms/image/D4E16AQG6AM7TyvLbpg/profile-displaybackgroundimage-shrink_350_1400/0/1703208305160?e=1722470400&v=beta&t=4Qllor8JtqY8YMzMCzxuq5)" alt="Amanpreet Kaur Banner" />
+  <img src="https://media.licdn.com/dms/image/D4E16AQG6AM7TyvLbpg/profile-displaybackgroundimage-shrink_350_1400/0/1703208305160?e=1722470400&v=beta&t=4Qllor8JtqY8YMzMCzxuq5dF4RvQxIGwshcDhakIWzY" alt="Amanpreet Kaur Banner" />
 </p>
 
 - 🔭 Currently working on freelancing projects.
