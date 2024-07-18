@@ -22,7 +22,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="amankaur2707" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/amankaur2707?trk=profile-badge">Amanpreet Kaur</a></div>
+  <a href="https://linkedin.com/in/amankaur2707" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanpreet" height="30" width="40" />
+  </a>
 </p>
 <br>
 <h3 align="center">Languages and Tools:</h3>
