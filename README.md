@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Amanpreet Kaur
+# Hi there! 👋 I'm Amanpreet Kaur
 - 🔭  working on improving my full-stack development skills.
 - 🌱  learning advanced JavaScript frameworks and cloud technologies.
 - 👯  Open to collaborate on open-source full-stack projects.
