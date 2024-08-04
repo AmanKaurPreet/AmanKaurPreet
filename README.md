@@ -51,3 +51,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+<p align="center">⭐️ Feel free to explore more on my <a href="https://preetamankaur.com">portfolio website</a>! ⭐️</p>
