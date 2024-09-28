@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.canva.com/design/DAGSAeh_V7Y/_Ao3CoCGHC1DQ8XAICkH5w/view?utm_content=DAGSAeh_V7Y&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Amanpreet Kaur Banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH75KLycGX6Kg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719774081432?e=1732752000&v=beta&t=qxG3ulYCaJFV07hW8mb6NwkDW5FYwgKig9szkpT-wX0" alt="Amanpreet Kaur Banner" />
 </p>
 
 - 🔭 Currently working on freelancing projects.
